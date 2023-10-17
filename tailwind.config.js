@@ -10,7 +10,11 @@ module.exports = {
         'color-secondary': '#EAA400',
         'color-text': '#666',
         'link-hover' : '#e1a237',
-      }
+        'color-text-secondary': '#e1a237',
+      },
+      backgroundImage:{
+        'section1': 'url("/src/assets/images/section1.jpeg")',
+      },
     },
   },
   plugins: [],
